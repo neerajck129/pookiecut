@@ -22,9 +22,9 @@ export default function Hero() {
           {siteConfig.title} <span className="pc-hero__bolt">{siteConfig.bolt}</span>
         </h1>
 
-        <h2 className="pc-hero__hook">
+        {/* <h2 className="pc-hero__hook">
           {siteConfig.heroHook} <span className="pc-hero__bolt">{siteConfig.bolt}</span>
-        </h2>
+        </h2> */}
 
         <p className="pc-hero__subtitle">
           {siteConfig.heroDescriptionLines.map((line, i) => (
