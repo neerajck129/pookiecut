@@ -196,7 +196,7 @@
   flex-direction: column;
   gap: 4px;
   font-family: var(--pc-body);
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.55;
   color: var(--pc-text-muted);
   animation: pc-fade-up 800ms 320ms ease both;
